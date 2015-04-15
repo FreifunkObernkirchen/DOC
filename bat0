@@ -1,0 +1,5 @@
+bat0      Link encap:Ethernet  Hardware Adresse 02:22:15:55:13:53
+          inet6-Adresse: fdef:17a0:ffb1:300:22:15ff:fe55:1353/64 Gültigkeitsbereich:Global
+          inet6-Adresse: fe80::22:15ff:fe55:1353/64 Gültigkeitsbereich:Verbindung
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metrik:1
+  
