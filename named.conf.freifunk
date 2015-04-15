@@ -8,6 +8,7 @@
 # dn42
 # 
 # config as of https://dn42.net/Services-DNS-Configuration
+
 zone "dn42" {
     type static-stub;
     server-addresses { 172.22.0.53; };
